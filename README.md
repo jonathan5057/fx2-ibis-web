@@ -3,7 +3,7 @@
 ## index 
 1. Set up the environment 
 1. Create the html
-
+Styling 
 
 
 ## Set up the environment
@@ -16,3 +16,7 @@
 - Doctype
 - html, head and body tags
 - Header and paragraphs
+
+## Styling
+- Link the css file in the html
+- Orange background for the header
